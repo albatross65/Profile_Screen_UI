@@ -61,7 +61,7 @@ class PurpleProfileScreen extends StatelessWidget {
                         child: CircleAvatar(
                           radius: 50,
                           backgroundImage:
-                          AssetImage('assets/avatar.png'), // Replace with your avatar
+                          AssetImage('assets/avatar.jpg'), // Replace with your avatar
                         ),
                       ),
                       const SizedBox(height: 10),
